@@ -1,0 +1,49 @@
+{
+  "cards": [
+    {
+      "name": "Blue Eyes White Dragon",
+      "lvl": 8,
+      "atk": 3000,
+      "def": 2500,
+      "effect": "",
+      "type": "light",
+      "description": "A Powerfull Dragon!"
+    },
+    {
+      "name": "Mystic Dwarf",
+      "lvl": 4,
+      "atk": 800,
+      "def": 2000,
+      "effect": "",
+      "type": "light",
+      "description": "Regular Dwarf"
+    },
+    {
+      "name": "Baby Dragon",
+      "lvl": 3,
+      "atk": 1200,
+      "def": 700,
+      "effect": "It would be grow stronger with a time machine.",
+      "type": "earth",
+      "description": "Just a rare Baby Dragon!"
+    },
+    {
+      "name": "Mushroom Man",
+      "lvl": 2,
+      "atk": 800,
+      "def": 600,
+      "effect": "",
+      "type": "earth",
+      "description": "A wierd guy."
+    },
+    {
+      "name": "Mage of Time",
+      "lvl": 2,
+      "atk": 500,
+      "def": 400,
+      "effect": "Una vez por turno: puedes lanzar una moneda y elegir Cara o Cruz. Si aciertas, destruye todos los monstruos que controle tu adversario. Si fallas, destruye tantos monstruos que controles como sea posible y, si lo haces, recibes daño igual a la mitad del ATK total que esos monstruos destruidos tenían mientras estaban boca arriba en el Campo.",
+      "type": "light",
+      "description": "A curious mage that can take control of the time."
+    }
+  ]
+}
